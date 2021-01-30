@@ -47,7 +47,7 @@
 
         <footer>
         <h1>Shine Modas Corp.</h1>
-        <h3>Democracia na moda com estilo e elegância</h3>
+        <h3>Moda com respeito, estilo e elegância</h3>
         <ul>
             <li><a target="_blank" title="twitter da Shinemodas" href="//twitter.com/shinemodas"><img title="twitter da securitylabs" alt="twitter da shinemodas" src="./_imagens/twrlogo.jpg"/></a>
             <li><a target="_blank" title="Perfil da ShineModas no Facebook" href="//facebook.com/shinemodas"><img title="Pagina da securitylabs no facebook" alt="Pagina da shinemodas no facebook" src="./_imagens/fbklogo.jpg"/></a>
