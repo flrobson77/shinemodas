@@ -26,13 +26,13 @@
 
         <main>
         <h1> Moda Plus Size </h1>
-        <img title="Foto_Capa_01" alt="[Foto_Capa_01]" src="./_imagens/people_05.jpg"/>
+        <img title="Foto_Capa_01" alt="[Foto_Capa_01]" src="./_imagens/people_04.jpg"/>
         <p>
         O termo, “plus size” é destinado aos modelos de roupa acima de 48 de calça para cima de GG em diante para blusas.
         Para a moda social masculina fica em manequim a partir do tamanho 5 de camisa, seja ela manga curta ou comprimida.
         É uma categorização da moda para organizar melhor suas categorias e não outro estilo de se vestir.
         </p>
-        <img title="Foto_Capa_02" alt="[Foto_Capa_02]" src="./_imagens/people_03.jpg"/>
+        <img title="Foto_Capa_02" alt="[Foto_Capa_02]" src="./_imagens/people_02.jpg"/>
         <p>
         Segundo Isabella Potter do portal ONDM a moda Plus Size vem cada vez mais ganhando força no Brasil!<br/> 
         </p>

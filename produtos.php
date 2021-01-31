@@ -26,8 +26,8 @@
 
         <main>
         <h1> Moda Plus Size </h1>
-        <img title="Foto_Capa_01" alt="[Foto_Capa_01]" src="./_imagens/people_05.jpg"/>
-        <p> Nossos produtos!!!</p>
+        <img title="Foto_Capa_01" alt="[Foto_Capa_01]" src="./_imagens/people_01.jpg"/>
+        <p> Conheça nosso catalogo de produtos!!!</p>
         </main>
         <h3>Moda com respeito, estilo e elegância</h3>
         <h2>http://www.shinemodas.com.br</h2>
