@@ -1,0 +1,159 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #F0F0F0;
+    font-family: Helvetica, Verdana;
+    font-size: 16px;
+    color: rgba(0,0,0,1);
+}
+
+header{
+    background-color: #0ff0ff;
+    color: #333333;
+    border-bottom: 1px #000000 solid;
+    font-family: Helvetica, Arial;
+    font-size: 16px;
+    height: 150px;
+    padding: 10px 0;
+}
+
+footer{
+    background-color: #ffAAff;
+    color: #333333;
+    font-family: Helvetica, Arial;
+    font-size: 16px;
+    border-top: 1px #000000 solid;
+    height: 80px;
+    padding: 10px 0;
+}
+
+.container{
+    margin: 0 auto;
+    padding: 5px;
+    width: 900px;
+}
+
+section {
+    display: -webkit-flex;
+    display: flex;
+}
+
+@media (max-width: 800px) {
+section {
+    -web-flex-direction: column;
+    flex-direction: column;
+    }
+}
+
+nav {
+    float:left;
+    width: 30%;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    background: #ccc;
+    padding: 20px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+nav a{
+    text-decoration: none;
+    width: 300px;
+    color: #000000;
+    text-shadow: 1px 1px 1px black;
+}
+
+nav ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+article {
+    -webkit-flex: 3;
+    -ms-flex: 3;
+    flex: 3;
+    padding: 10px;
+    width: 70%;
+    background: #f1f1f1;
+}
+
+#conteudo{
+    background-color: #ffffff;
+    margin: 10px auto 10px auto;
+    padding: 20px 0;
+}
+
+#head h1{
+    font-family: Helvetica, Verdana;
+    font-size: 30px;
+    font-weight: bold;
+    color: #333333;
+}
+
+#menu{
+    float:right;
+    padding: 30px 0;
+}
+
+#menu a{
+    text-decoration: none;
+    padding: 30px 30px;
+    color: #000000;
+    text-shadow: 1px 1px 1px black;
+}
+
+#menu a:hover{
+    background-color: #3030ff;
+}
+
+h1{
+    font-family: Helvetica, Verdana;
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(236, 141, 97);
+    text-shadow: 3px 3px 3px black;
+}
+
+h2{
+    font-family: Helvetica, Verdana;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+h4{
+    font-family: Helvetica, Verdana;
+    font-size: 10px;
+    text-align: left;
+
+}
+
+p {
+    font-family: Helvetica, Verdana;
+    text-align: justify;
+    font-size: 15px;
+    text-indent: 30px;
+    color: black;
+}
+
+a {
+    color: #606060;
+    text-decoration: none;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #3030ff;
+}

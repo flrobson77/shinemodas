@@ -2,7 +2,7 @@
 <html lang="pt-br">
     <head>
     <meta charset="UTF-8">
-    <title> SHINE Modas Corp. </title>
+    <title> SHINE Modas Corp. - Produtos </title>
     <meta name="description" content="Essa página apresenta a Shinemodas como uma grande loja de roupas plus size"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
@@ -18,7 +18,7 @@
             <img title="Logomarca" alt="[Logomarca]" src="./_imagens/logoshine.png"/>
             <ul>
                 <li><a href="#home" title="Shinemodas">Home</a></li>
-                <li><a href="#sobre" title="Sobre a Shinemodas">Sobre</a></li>
+                <li><a target="_blank" rel="nofllow" href="./sobre.php" title="Sobre a Shinemodas">Sobre</a></li>
                 <li><a target="_blank" rel="nofollow" href="./produtos.php" title="Conheca os produtos da Shinemodas">Produtos</a></li>
                 <li><a href="#contato" title="Contate a Shinemodas">Contato</a></li>
             </ul>
