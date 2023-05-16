@@ -15,7 +15,8 @@
 
     <body>
         <header>
-            <img title="Logomarca" alt="[Logomarca]" src="./_imagens/logoshine.png"/>
+        <a href="./index.php" title="Shinemodas">
+        <img title="Logomarca" alt="[Logomarca]" src="./_imagens/logoshine.png"/></a>
             <ul>
                 <li><a href="#home" title="Shinemodas">Home</a></li>
                 <li><a target="_blank" rel="nofllow" href="./sobre.php" title="Sobre a Shinemodas">Sobre</a></li>
